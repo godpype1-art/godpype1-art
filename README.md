@@ -18,14 +18,14 @@ Outside of the curriculum, I am also working on a personal game project and grad
 - Low-level programming
 - Game development
 - Python
-
+<!--
 ## Current Projects
 
 - Libft
 - ft_printf
 - get_next_line
 - push_swap (upcoming)
-
+-->
 ## Technologies
 
 - C
